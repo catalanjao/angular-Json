@@ -1,4 +1,6 @@
-[
+{
+  "CountMax": 189,
+  "qnaDocuments":[
   {
     "id": 1,
     "answer": "Of course, just type the word english and I'll switch to that",
@@ -3313,7 +3315,7 @@
     "answer": "**#yomeentreno**\n\nCursos presenciales\n\nEscenarios reales\n\nGuías de usuarios\n\nEjercicios prácticos",
     "source": "FINSA_LINK_Capacitacion_I2O10_PC_vF.pdf",
     "questions": [
-      "#yomeentreno - Junio, 2018",
+      "#yomeentreno Reportes de Supervisión Junio, 2018",
       "#yomeentreno Reportes de Supervisión Junio, 2018"
     ],
     "metadata": [
@@ -4202,7 +4204,7 @@
   },
   {
     "id": 134,
-    "answer": "**Visualizar estado de almacén**\n\nIngresar a la transacciónLX03.\n\nIngresar Número de almacén y Tipo de almacén.\n\nMarcar solo ubicaciones con stock.\n\nHacer clic en Ejecutar.\n\nRevisar listado de stock.\n\nLa siguiente demostración incluirá:\n\n▪ Cómo visualizar estado de almacén.\n\nVisualizar stocks por material",
+    "answer": "**Visualizar estado de almacén**\n\nIngresar a la transacciónLX03.\nIngresar Número de almacén y Tipo de almacén.\nMarcar solo ubicaciones con stock.\nHacer clic en Ejecutar.\nRevisar listado de stock.",
     "source": "FINSA_LINK_Capacitacion_I2O10_PC_vF.pdf",
     "questions": [
       "Visualizar estado de almacén"
@@ -4229,7 +4231,7 @@
   },
   {
     "id": 135,
-    "answer": "**Visualizar stocks por material**\n\nIngresar a la transacciónLS24.\n\nIngresar Número de almacén, Material y Centro.\n\nPresionarEnter.\n\nRevisar listado de stock por material.\n\nLa siguiente demostración incluirá:\n\n▪ Cómo visualizar stocks por material.\n\nVisualizar estatus de los procesos de bodega, OTs sin confirmar, stock negativos y otros",
+    "answer": "**Visualizar stocks por material**\n\nIngresar a la transacciónLS24.\nIngresar Número de almacén, Material y Centro.\nPresionarEnter.\nRevisar listado de stock por material.\n",
     "source": "FINSA_LINK_Capacitacion_I2O10_PC_vF.pdf",
     "questions": [
       "Visualizar stocks por material"
@@ -4256,7 +4258,7 @@
   },
   {
     "id": 136,
-    "answer": "**Visualizar estatus de los procesos de bodega, OTs sin confirmar, stock negativos y otros**\n\nIngresar a la transacciónLL01.\n\nIngresar Número de almacén y hacer clic en Ejecutar.\n\nEl sistema despliega los estados en que se encuentran los procesos de bodega. \n\nMediante las opciones señaladas, es posible expandir o contraer cada opción. \n\nAl hacer doble click sobre las hojas del árbol podrá expandir/contraer o mostrar el detalle de documentos que componen el documento. \n\nVisualizar estatus de los procesos de bodega, OTs sin confirmar, stock negativos y otros\n\nPara actualizar el monitor de procesos críticos, hacer clic derecho sobre la opción y ejecutar la opción Determinar datos nuevos.\n\nEste proceso lo puede ejecutar para cada opción o solicitar al BASIS que automatice este proceso por las noches para actualizarlo. \n\nLa siguiente demostración incluirá:\n\n▪ Cómo visualizar estatus de los procesos de bodega, OTs sin confirmar, stock negativos y otros.\n\nPara ejercitar, referirse al:\n\n▪ Ejercicio 1 de la Guía de Ejercicios Prácticos: Visualizar reportes en WM.\n\nEn estetópico, hemos aprendido a:",
+    "answer": "**Visualizar estatus de los procesos de bodega, OTs sin confirmar, stock negativos y otros**\n\nIngresar a la transacciónLL01.\nIngresar Número de almacén y hacer clic en Ejecutar.\nEl sistema despliega los estados en que se encuentran los procesos de bodega. \nMediante las opciones señaladas, es posible expandir o contraer cada opción. \nAl hacer doble click sobre las hojas del árbol podrá expandir/contraer o mostrar el detalle de documentos que componen el documento. \nVisualizar estatus de los procesos de bodega, OTs sin confirmar, stock negativos y otros\nPara actualizar el monitor de procesos críticos, hacer clic derecho sobre la opción y ejecutar la opción Determinar datos nuevos.\nEste proceso lo puede ejecutar para cada opción o solicitar al BASIS que automatice este proceso por las noches para actualizarlo. \n",
     "source": "FINSA_LINK_Capacitacion_I2O10_PC_vF.pdf",
     "questions": [
       "Visualizar estatus de los procesos de bodega, OTs sin confirmar, stock negativos y otros"
@@ -4283,7 +4285,7 @@
   },
   {
     "id": 137,
-    "answer": "**Sumario del tópico**\n\n▪ Visualizar ubicación material por número de almacén.\n\n*   \n\nVisualizar listado de Órdenes de Transportes (según estatus).\n\n*   \n\nVisualizar listado de Órdenes de Transporte por tipo de almacén.\n\n*   \n\nVisualizar listado de Órdenes de Transporte por ubicación.\n\n*   \n\nVisualizar estado de almacén.\n\n*   \n\nVisualizar listado de ubicaciones vacías.\n\n*   \n\nVisualizar stocks por material.\n\n*   \n\nVisualizar estatus de los procesos de bodega, OT sin confirmar, stock negativos y otros.\n\n¡RECREO!\n\n15 MINUTOS",
+    "answer": "**Sumario del tópico**\n\nVisualizar ubicación material por número de almacén.\nVisualizar listado de Órdenes de Transportes (según estatus).\nVisualizar listado de Órdenes de Transporte por tipo de almacén.\nVisualizar listado de Órdenes de Transporte por ubicación.\nVisualizar estado de almacén.\nVisualizar listado de ubicaciones vacías.\nVisualizar stocks por material.\nVisualizar estatus de los procesos de bodega, OT sin confirmar, stock negativos y otros.\n",
     "source": "FINSA_LINK_Capacitacion_I2O10_PC_vF.pdf",
     "questions": [
       "Sumario del tópico - Junio, 2018 - Reportes de Supervisión"
@@ -4418,10 +4420,10 @@
   },
   {
     "id": 142,
-    "answer": "**En este tópico, vamos a trabajar en:**\n\n▪ Visualizar listado de reservas de materiales.\n\n▪ Visualizar stock en fecha de contabilización.\n\n*   \n\nVisualizar listado de valores de stock (Representación de saldo).\n\n*   \n\nVisualizar stock en tránsito (Pedidos de traslados entre centros).\n\n*   \n\nGenerar análisis de Centro.\n\n*   \n\nGenerar análisis de Lotes.\n\n*   \n\nVisualizar lista de necesidades/stock\n\n*   \n\nVisualizar stock disponible en proyecto y en libre utilización (material individual).\n\n*   \n\nVisualizar listado de documentos de material.\n\n*   \n\nVisualizar stock de materiales (colectiva).\n\n*   \n\nVisualizar stock en consignación de proveedores.\n\n*   \n\nVisualizar stock en consignación en clientes.\n\n*   \n\nVisualizar listado de documentos contables para material.",
+    "answer": "**En este tópico, vamos a trabajar en:**\n\nVisualizar listado de reservas de materiales.\nVisualizar stock en fecha de contabilización.\nVisualizar listado de valores de stock (Representación de saldo).\nVisualizar stock en tránsito (Pedidos de traslados entre centros).\nGenerar análisis de Centro.\nGenerar análisis de Lotes.\nVisualizar lista de necesidades/stock\nVisualizar stock disponible en proyecto y en libre utilización (material individual).\nVisualizar listado de documentos de material.\nVisualizar stock de materiales (colectiva).\nVisualizar stock en consignación de proveedores.\nVisualizar stock en consignación en clientes.\nVisualizar listado de documentos contables para material.",
     "source": "FINSA_LINK_Capacitacion_I2O10_PC_vF.pdf",
     "questions": [
-      "En este tópico, vamos a trabajar en: - Propósitos del tópico - Junio, 2018 - Reportes de Supervisión"
+      "REPORTES EN MM TEMARIO"
     ],
     "metadata": [
       
@@ -4472,7 +4474,7 @@
   },
   {
     "id": 144,
-    "answer": "**Visualizar listado de reservas de materiales**\n\nIngresar a la transacciónMB24.\n\nIngresar Material, Centro y Alcance de la lista.\n\nHacer clic en Ejecutar.\n\nRevisar listado de stock.\n\nLa siguiente demostración incluirá:\n\n▪ Cómo visualizar listado de reservas de materiales.",
+    "answer": "**Visualizar listado de reservas de materiales**\n\nIngresar a la transacciónMB24.\nIngresar Material, Centro y Alcance de la lista.\nHacer clic en Ejecutar.\nRevisar listado de stock.",
     "source": "FINSA_LINK_Capacitacion_I2O10_PC_vF.pdf",
     "questions": [
       "Visualizar listado de reservas de materiales"
@@ -4499,7 +4501,7 @@
   },
   {
     "id": 145,
-    "answer": "**Visualizar stock en fecha contabilización**\n\nVisualizar stock en fecha contabilización\n\nIngresar a la transacciónMB5B.\n\nIngresar Número de material, Centro yStock en almacén/lote.\n\nHacer clic en Ejecutar.\n\nRevisar listado de stock.\n\nLa siguiente demostración incluirá:\n\n▪ Cómo visualizar stock en fecha contabilización.",
+    "answer": "**Visualizar stock en fecha contabilización**\n\nVisualizar stock en fecha contabilización\nIngresar a la transacciónMB5B.\nIngresar Número de material, Centro yStock en almacén/lote.\nHacer clic en Ejecutar.\nRevisar listado de stock.",
     "source": "FINSA_LINK_Capacitacion_I2O10_PC_vF.pdf",
     "questions": [
       "Visualizar stock en fecha contabilización"
@@ -4526,10 +4528,10 @@
   },
   {
     "id": 146,
-    "answer": "**Visualizar listado de valores de stock -Representación de saldo**\n\nVisualizar listado de valores de stock -Representación de saldo\n\nIngresar a la transacciónMB5L.\n\nIngresar Sociedad yPeríodo.\n\nHacer clic en Ejecutar.\n\nRevisar listado de stock.\n\nLa siguiente demostración incluirá:\n\n▪ Cómo visualizar listado de valores de stock -Representación de saldo.",
+    "answer": "**Visualizar listado de valores de stock -Representación de saldo**\n\nVisualizar listado de valores de stock -Representación de saldo\nIngresar a la transacciónMB5L.\nIngresar Sociedad yPeríodo.\nHacer clic en Ejecutar.\nRevisar listado de stock.",
     "source": "FINSA_LINK_Capacitacion_I2O10_PC_vF.pdf",
     "questions": [
-      "Visualizar listado de valores de stock -Representación de saldo"
+      "Visualizar listado de valores de stock - Representación de saldo"
     ],
     "metadata": [
       
@@ -4553,7 +4555,7 @@
   },
   {
     "id": 147,
-    "answer": "**Visualizar stock en tránsito (Pedidos de traslados entre centros)**\n\nVisualizar stock en tránsito (Pedidos de traslados entre centros)\n\nIngresar a la transacciónMB5T.\n\nIngresar Material yCentro Receptor.\n\nHacer clic en Ejecutar.\n\nRevisar listado de stock.\n\nLa siguiente demostración incluirá:\n\n▪ Cómo visualizar stock en tránsito (Pedidos de traslados entre centros).",
+    "answer": "**Visualizar stock en tránsito (Pedidos de traslados entre centros)**\n\nVisualizar stock en tránsito (Pedidos de traslados entre centros)\nIngresar a la transacciónMB5T.\nIngresar Material yCentro Receptor.\nHacer clic en Ejecutar.\nRevisar listado de stock.",
     "source": "FINSA_LINK_Capacitacion_I2O10_PC_vF.pdf",
     "questions": [
       "Visualizar stock en tránsito (Pedidos de traslados entre centros)"
@@ -4580,7 +4582,7 @@
   },
   {
     "id": 148,
-    "answer": "**Generar análisis de Centro**\n\nGenerar análisis de Centro\n\nIngresar a la transacciónMCBA.\n\nIngresar Centro, Material y Mes de análisis.\n\nHacer clic en Ejecutar.\n\nRevisar listado.\n\nLa siguiente demostración incluirá:\n\n▪ Cómo generar análisis de Centro.",
+    "answer": "**Generar análisis de Centro**\n\nGenerar análisis de Centro\nIngresar a la transacciónMCBA.\nIngresar Centro, Material y Mes de análisis.\nHacer clic en Ejecutar.\nRevisar listado.",
     "source": "FINSA_LINK_Capacitacion_I2O10_PC_vF.pdf",
     "questions": [
       "Generar análisis de Centro"
@@ -4607,7 +4609,7 @@
   },
   {
     "id": 149,
-    "answer": "**Generar análisis de Lotes**\n\nGenerar análisis de Lotes\n\nIngresar a la transacciónMCBR.\n\nIngresar Centro, Material y Mes de análisis.\n\nHacer clic en Ejecutar.\n\nRevisar listado.\n\nLa siguiente demostración incluirá:\n\n▪ Cómo generar análisis de Lotes.",
+    "answer": "**Generar análisis de Lotes**\n\nGenerar análisis de Lotes\nIngresar a la transacciónMCBR.\nIngresar Centro, Material y Mes de análisis.\nHacer clic en Ejecutar.\nRevisar listado.",
     "source": "FINSA_LINK_Capacitacion_I2O10_PC_vF.pdf",
     "questions": [
       "Generar análisis de Lotes"
@@ -4634,7 +4636,7 @@
   },
   {
     "id": 150,
-    "answer": "**Visualizar lista de necesidades/stock**\n\nVisualizar lista de necesidades/stock\n\nIngresar a la transacciónMD04.\n\nIngresar Material y Centro.\n\nHacer clic en Ejecutar.\n\nRevisar listado.\n\nLa siguiente demostración incluirá:\n\n▪ Cómo visualizar lista de necesidades/stock.\n\nVisualizar stock disponible en proyecto y en libre utilización (material individual",
+    "answer": "**Visualizar lista de necesidades/stock**\n\nVisualizar lista de necesidades/stock\nIngresar a la transacciónMD04.\nIngresar Material y Centro.\nHacer clic en Ejecutar.\nRevisar listado.",
     "source": "FINSA_LINK_Capacitacion_I2O10_PC_vF.pdf",
     "questions": [
       "Visualizar lista de necesidades/stock"
@@ -4688,7 +4690,7 @@
   },
   {
     "id": 152,
-    "answer": "**Visualizar listado de documentos de material**\n\nVisualizar listado de documentos de material\n\nIngresar a la transacciónMB51.\n\nIngresar Material,Centro yFechas de Contabilización.\n\nHacer clic en Ejecutar.\n\nRevisar listado.\n\nLa siguiente demostración incluirá:\n\n▪ Cómo visualizar listado de documentos de material.\n\nVisualizar stock de materiales (colectiva)",
+    "answer": "**Visualizar listado de documentos de material**\n\nVisualizar listado de documentos de material\nIngresar a la transacciónMB51.\nIngresar Material,Centro yFechas de Contabilización.\nHacer clic en Ejecutar.\nRevisar listado.",
     "source": "FINSA_LINK_Capacitacion_I2O10_PC_vF.pdf",
     "questions": [
       "Visualizar listado de documentos de material"
@@ -4715,7 +4717,7 @@
   },
   {
     "id": 153,
-    "answer": "**Visualizar stock de materiales (colectiva)**\n\nIngresar a la transacciónMB52.\n\nIngresar Centro yAlmacén.\n\nMarcar flags en opciones.\n\nMarcar Representación no jerárquica.\n\nHacer clic en Ejecutar.\n\nVisualizar stocks en almacén por material.\n\nLa siguiente demostración incluirá:\n\n▪ Cómo visualizar stock de materiales (colectiva).\n\nVisualizar stock en consignación de proveedores",
+    "answer": "**Visualizar stock de materiales (colectiva)**\n\nIngresar a la transacciónMB52.\nIngresar Centro yAlmacén.\nMarcar flags en opciones.\nMarcar Representación no jerárquica.\nHacer clic en Ejecutar.\nVisualizar stocks en almacén por material.",
     "source": "FINSA_LINK_Capacitacion_I2O10_PC_vF.pdf",
     "questions": [
       "Visualizar stock de materiales (colectiva)"
@@ -4742,7 +4744,7 @@
   },
   {
     "id": 154,
-    "answer": "**Visualizar stock en consignación de proveedores**\n\nIngresar a la transacciónMB54.\n\nIngresar Material y Centro.\n\nHacer clic en Ejecutar.\n\nVisualizar stock en consignación de proveedores.\n\nLa siguiente demostración incluirá:\n\n▪ Cómo visualizarstock en consignación de proveedores.",
+    "answer": "**Visualizar stock en consignación de proveedores**\n\nIngresar a la transacciónMB54.\nIngresar Material y Centro.\nHacer clic en Ejecutar.\nVisualizar stock en consignación de proveedores.",
     "source": "FINSA_LINK_Capacitacion_I2O10_PC_vF.pdf",
     "questions": [
       "Visualizar stock en consignación de proveedores"
@@ -4769,7 +4771,7 @@
   },
   {
     "id": 155,
-    "answer": "**Visualizar stock en consignación en clientes**\n\nVisualizar stock en consignación en clientes\n\nIngresar a la transacciónMB58.\n\nIngresar número delCentro a revisar.\n\nPresionar Enter.\n\nVisualizar el stock asignado asociado a clientes. \n\nLa siguiente demostración incluirá:\n\n▪ Cómo visualizarstock en consignación en clientes.\n\nVisualizar listado de documentos contables para material",
+    "answer": "**Visualizar stock en consignación en clientes**\n\nIngresar a la transacciónMB58.\nIngresar número delCentro a revisar.\nPresionar Enter.\nVisualizar el stock asignado asociado a clientes. ",
     "source": "FINSA_LINK_Capacitacion_I2O10_PC_vF.pdf",
     "questions": [
       "Visualizar stock en consignación en clientes"
@@ -4796,7 +4798,7 @@
   },
   {
     "id": 156,
-    "answer": "**Visualizar listado de documentos contables para material**\n\nIngresar a la transacciónMR51.\n\nIngresar Material ySociedad.\n\nIngresar Opción de selección.\n\nHacer clic en Ejecutar.\n\nRevisar listado.\n\nLa siguiente demostración incluirá:\n\n▪ Cómo visualizar listado de documentos contables para material.\n\nPara ejercitar, referirse al:\n\n▪ Ejercicio 2 de la Guía de Ejercicios Prácticos: Visualizar reportes en MM.",
+    "answer": "**Visualizar listado de documentos contables para material**\n\nIngresar a la transacciónMR51.\nIngresar Material ySociedad.\nIngresar Opción de selección.\nHacer clic en Ejecutar.\nRevisar listado.",
     "source": "FINSA_LINK_Capacitacion_I2O10_PC_vF.pdf",
     "questions": [
       "Visualizar listado de documentos contables para material"
@@ -4958,10 +4960,10 @@
   },
   {
     "id": 162,
-    "answer": "**Propósitos del tópico**\n\n*   \n\nVisualizar resumen de disponibilidad.\n\n*   \n\nVisualizar Monitor de Entregas –Entregas de salida.\n\n*   \n\nVisualizar suministros para salida de mercancía.\n\n*   \n\nVisualizar suministros para picking.\n\n*   \n\nVisualizarsuministros para confirmación.\n\n*   \n\nVisualizar Monitor de Entregas –Entregas entrantes.\n\n*   \n\nVisualizar entrantes para entrada en stock.\n\n*   \n\nVisualizar entrantes para confirmación.\n\n*   \n\nVisualizar entrantes para entrada de mercancía.",
+    "answer": "**Propósitos del tópico**\n\nVisualizar resumen de disponibilidad.\nVisualizar Monitor de Entregas –Entregas de salida.\nVisualizar suministros para salida de mercancía.\nVisualizar suministros para picking.\nVisualizar suministros para confirmación.\nVisualizar Monitor de Entregas –Entregas entrantes.\nVisualizar entrantes para entrada en stock.\nVisualizar entrantes para confirmación.\nVisualizar entrantes para entrada de mercancía.",
     "source": "FINSA_LINK_Capacitacion_I2O10_PC_vF.pdf",
     "questions": [
-      "Propósitos del tópico - Junio, 2018 - Reportes de Supervisión"
+      "REPORTES EN SD TEMARIO"
     ],
     "metadata": [
       
@@ -5012,7 +5014,7 @@
   },
   {
     "id": 164,
-    "answer": "**Visualizar resumen de disponibilidad**\n\nVisualizar resumen de disponibilidad\n\nIngresar a la transacción CO09.\n\nIngresar Material, Centro y Regla Verificación.\n\nPresionar Enter.\n\nRevisar disponibilidad de material.\n\nLa siguiente demostración incluirá:\n\n▪ Cómo visualizar resumen de disponibilidad.",
+    "answer": "**Visualizar resumen de disponibilidad**\n\nVisualizar resumen de disponibilidad\nIngresar a la transacción CO09.\nIngresar Material, Centro y Regla Verificación.\nPresionar Enter.\nRevisar disponibilidad de material.",
     "source": "FINSA_LINK_Capacitacion_I2O10_PC_vF.pdf",
     "questions": [
       "Visualizar resumen de disponibilidad"
@@ -5039,7 +5041,7 @@
   },
   {
     "id": 165,
-    "answer": "**Visualizar Monitor de Entregas –Entregas de salida**\n\nVisualizar Monitor de Entregas –Entregas de salida\n\nPara ingresar al Monitor de Entregas, se debe ingresar a la transacción VL06. \n\nEntregas con gestión WMS y sin OT WMS\n\nPara visualizar entregas de salida, se puede ingresar directamente a la transacción VL06O.\n\nEntregas con gestión WMS y con OT WMS\n\nsin confirmar\n\nEntregas pendiente la salida de mercancías \n\nLa siguiente demostración incluirá:\n\n▪ Cómo visualizar Monitor de Entregas –Entregas de salida.\n\nVisualizar suministros para picking",
+    "answer": "**Visualizar Monitor de Entregas –Entregas de salida**\n\nPara ingresar al Monitor de Entregas, se debe ingresar a la transacción VL06. \nPara visualizar entregas de salida, se puede ingresar directamente a la transacción VL06O.\n",
     "source": "FINSA_LINK_Capacitacion_I2O10_PC_vF.pdf",
     "questions": [
       "Visualizar Monitor de Entregas –Entregas de salida"
@@ -5066,7 +5068,7 @@
   },
   {
     "id": 166,
-    "answer": "**Visualizar suministros para picking**\n\nIngresar a la transacciónVL06P.\n\nIngresar Puesto(s) Expediciónyfecha de picking.\n\nHacer clic en Ejecutar.\n\nSeleccionar entrega por pickear.\n\nCrear OT, haciendo clic en OT (no visible) u OT (visible).\n\nLa siguiente demostración incluirá:\n\n▪ Cómo visualizar suministros para picking.\n\nVisualizar suministros para confirmación",
+    "answer": "**Visualizar suministros para picking**\n\nIngresar a la transacciónVL06P.\nIngresar Puesto(s) Expediciónyfecha de picking.\nHacer clic en Ejecutar.\nSeleccionar entrega por pickear.\nCrear OT, haciendo clic en OT (no visible) u OT (visible).",
     "source": "FINSA_LINK_Capacitacion_I2O10_PC_vF.pdf",
     "questions": [
       "Visualizar suministros para picking"
@@ -5093,7 +5095,7 @@
   },
   {
     "id": 167,
-    "answer": "**Visualizar suministros para confirmación**\n\nIngresar a la transacciónVL06C.\n\nIngresar Puesto(s) Expediciónyfecha de movimiento planificada.\n\nHacer clic en Ejecutar.\n\nSeleccionar entrega por confirmar.\n\nConfirmar.\n\nLa siguiente demostración incluirá:\n\n▪ Cómo visualizar suministros para confirmación.\n\nVisualizar suministros para salida de mercancía",
+    "answer": "**Visualizar suministros para confirmación**\n\nIngresar a la transacciónVL06C.\nIngresar Puesto(s) Expediciónyfecha de movimiento planificada.\nHacer clic en Ejecutar.\nSeleccionar entrega por confirmar.\nConfirmar.",
     "source": "FINSA_LINK_Capacitacion_I2O10_PC_vF.pdf",
     "questions": [
       "Visualizar suministros para confirmación"
@@ -5120,7 +5122,7 @@
   },
   {
     "id": 168,
-    "answer": "**Visualizar suministros para salida de mercancía**\n\nIngresar a la transacciónVL06G. \n\nIngresar Puesto(s) Expediciónyfecha de movimiento de mercancía planificada.\n\nHacer clic en Ejecutar.\n\nSeleccionar entrega por salir. \n\nContabilizar, haciendo clic en Contabilizar salida mercancías.\n\nLa siguiente demostración incluirá:\n\n▪ Cómo visualizar suministros para salida de mercancía.",
+    "answer": "**Visualizar suministros para salida de mercancía**\n\nIngresar a la transacciónVL06G. \nIngresar Puesto(s) Expediciónyfecha de movimiento de mercancía planificada.\nHacer clic en Ejecutar.\nSeleccionar entrega por salir. \nContabilizar, haciendo clic en Contabilizar salida mercancías.",
     "source": "FINSA_LINK_Capacitacion_I2O10_PC_vF.pdf",
     "questions": [
       "Visualizar suministros para salida de mercancía"
@@ -5147,7 +5149,7 @@
   },
   {
     "id": 169,
-    "answer": "**Visualizar Monitor de Entregas –Entregas entrantes**\n\nVisualizar Monitor de Entregas –Entregas entrantes\n\nPara visualizar entregas entrantes, se puede ingresar directamente a la \n\ntransacción VL06I.\n\nEntregas de entrantes pendientes la creación de OT WMS\n\nEntregas de entrantes con OT WMS pendiente de confirmar\n\nEntregas de entrantes pendiente de entrega de mercancía\n\nLa siguiente demostración incluirá:\n\n▪ Cómo visualizar Monitor de Entregas –Entregas entrantes.",
+    "answer": "**Visualizar Monitor de Entregas –Entregas entrantes**\n\nPara visualizar entregas entrantes, se puede ingresar directamente a la transacción VL06I.",
     "source": "FINSA_LINK_Capacitacion_I2O10_PC_vF.pdf",
     "questions": [
       "Visualizar Monitor de Entregas –Entregas entrantes"
@@ -5174,7 +5176,7 @@
   },
   {
     "id": 170,
-    "answer": "**Visualizar entrantes para entrada en stock**\n\nVisualizar entrantes para entrada en stock\n\nIngresar a la transacciónVL06I. \n\nHacer clic en p.entradastock.\n\nVisualizar entrantes para entrada en stock\n\nBorrar la fecha desdee ingresar el Número de Almacén. Seleccionar continuar.\n\nEl sistema mostrará todas las entregas entrantes para entrada en stock.\n\nLa siguiente demostración incluirá:\n\n▪ Cómo visualizar entrantes para entrada en stock.",
+    "answer": "**Visualizar entrantes para entrada en stock**\n\nIngresar a la transacciónVL06I. \nHacer clic en p.entradastock.\nBorrar la fecha desdee ingresar el Número de Almacén. Seleccionar continuar.\nEl sistema mostrará todas las entregas entrantes para entrada en stock.",
     "source": "FINSA_LINK_Capacitacion_I2O10_PC_vF.pdf",
     "questions": [
       "Visualizar entrantes para entrada en stock"
@@ -5201,7 +5203,7 @@
   },
   {
     "id": 171,
-    "answer": "**Visualizar entrantes para confirmación**\n\nVisualizar entrantes para confirmacion\n\nIngresar a la transacciónVL06I. \n\nHacer clic en p.confirmación.\n\nVisualizar entrantes para confirmacion\n\nBorrar la fecha desdee ingresar el Número de Almacén. Seleccionar continuar.\n\nVisualizar entrantes para confirmacion\n\nEl sistema mostrará todas las entregas entrantes pendientes de confirmar.\n\nLa siguiente demostración incluirá:\n\n▪ Cómo visualizar entrantes para confirmación.",
+    "answer": "**Visualizar entrantes para confirmación**\n\nIngresar a la transacciónVL06I. \nHacer clic en p.confirmación.\nBorrar la fecha desdee ingresar el Número de Almacén. Seleccionar continuar.\nEl sistema mostrará todas las entregas entrantes pendientes de confirmar.",
     "source": "FINSA_LINK_Capacitacion_I2O10_PC_vF.pdf",
     "questions": [
       "Visualizar entrantes para confirmación"
@@ -5228,7 +5230,7 @@
   },
   {
     "id": 172,
-    "answer": "**Visualizar entrantes para entrada de mercancía**\n\nVisualizar entrantes para entrada de mercancía\n\nIngresar a la transacciónVL06I. \n\nHacer clic en p.entradamercancía.\n\nVisualizar entrantes para entrada de mercancía\n\nBorrar la fecha desdee ingresar el Número de Almacén. Seleccionar continuar.\n\nVisualizar entrantes para entrada de mercancía\n\nEl sistema mostrará todas las entregas entrantes para entrada de mercancía.\n\nLa siguiente demostración incluirá:\n\n▪ Cómo visualizar entrantes para entrada de mercancía.\n\nPara ejercitar, referirse al:\n\n▪ Ejercicio 3 de la Guía de Ejercicios Prácticos: Visualizar reportes en SD.",
+    "answer": "**Visualizar entrantes para entrada de mercancía**\n\nIngresar a la transacciónVL06I. \nHacer clic en p.entradamercancía.\nBorrar la fecha desdee ingresar el Número de Almacén. Seleccionar continuar.\nEl sistema mostrará todas las entregas entrantes para entrada de mercancía.",
     "source": "FINSA_LINK_Capacitacion_I2O10_PC_vF.pdf",
     "questions": [
       "Visualizar entrantes para entrada de mercancía"
@@ -5713,3 +5715,4 @@
     ]
   }
 ]
+}

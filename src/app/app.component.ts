@@ -4,7 +4,7 @@ import { JsonPipe } from '@angular/common';
 
 // const json = require('../assets/plantilla.json');
 // const json = require('C://Users//José Catalán O//Downloads//bot isa.json');
-const json = require('../assets/2010 capacitacion reportes de supervision.json');
+const json = require('../assets/2007 capacitacion.json');
 @Component({
   selector: 'app-root',
   templateUrl: './app.component.html',
@@ -12,8 +12,7 @@ const json = require('../assets/2010 capacitacion reportes de supervision.json')
 })
 export class AppComponent {
   title:string = 'linkBot';
-  jsonFilas = json.qnaDocuments;
-
+  jsonFilas = json.qnaDocuments.filter(d=> d.source=='FINSA_LINK_Capacitación_I2O07_PC_V2.1.pdf');
   imprime(event){
 
     console.log(JSON.stringify(event));
