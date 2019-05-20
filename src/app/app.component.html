@@ -3,25 +3,24 @@
   <h1>
     {{ title }}!
   </h1>
-  </div>
-<div class="filtro">
-  <textarea type="text" class="inner" id="elfiltro"></textarea>
-  <button class="buttonfiltro" (click)="filtrado(elfiltro)">Filtrar</button>
 </div>
 <div class="container">
-<div *ngFor="let jsonFila of jsonFilas; let i = index" class="row">
+  <app-browsefile></app-browsefile>
+  <input type="text" class="inner" id="elfiltro" [(ngModel)]="source">
+  <button class="buttonfiltro" (click)="filtrado()" >Filtrar</button>
+  <div *ngFor="let jsonFila of jsonFilas; let i = index" class="row">
     <div class="col-md-1 col-sm-1 col-xs-1">
-  <p>{{jsonFila.id}}</p>
-</div>
-  <div class="col-md-12 col-sm-12 col-xs-12">
-  <textarea class="form-control" type="text" id="answer"  [(ngModel)]="jsonFila.answer"  ></textarea>
-</div>
-  <div class="col-md-12 col-sm-12 col-xs-12">
-  <textarea class="form-control" type="text" id="questions"  [(ngModel)]="jsonFila.questions[0]"  ></textarea>
-</div>
-</div>
-<a (click)="imprime(jsonFilas)" class=" btn btn-success"></a>
-<textarea class="AnchoObjeto" id="json" [(ngModel)]="jsonFilas"></textarea>
+      <p>{{jsonFila.id}}</p>
+    </div>
+    <div class="col-md-12 col-sm-12 col-xs-12">
+      <textarea class="form-control" type="text" id="answer"  [(ngModel)]="jsonFila.answer"  ></textarea>
+    </div>
+    <div class="col-md-12 col-sm-12 col-xs-12">
+      <textarea class="form-control" type="text" id="questions"  [(ngModel)]="jsonFila.questions[0]"  ></textarea>
+    </div>
+  </div>
+  <a (click)="imprime(jsonFilas)" class=" btn btn-success"></a>
+  <textarea class="AnchoObjeto" id="json" [(ngModel)]="jsonFilas"></textarea>
 </div>
 
 

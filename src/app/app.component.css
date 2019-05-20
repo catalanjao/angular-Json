@@ -3,14 +3,12 @@
     height: 300px;
 }
 .filtro{
-    align-self: auto;
-    padding-left: 55px;
-    align-content: inherit;
-    align-items: inherit;
+    display: flex;
+    flex-wrap: wrap;
 }
 .inner{
-    width: 300px;
-    height: 30px;
+    width: 900px;
 }
 .buttonfiltro{
+    margin-left: 9%;
 }

@@ -3,8 +3,8 @@ import { modelGroupProvider } from '@angular/forms/src/directives/ng_model_group
 import { JsonPipe } from '@angular/common';
 
 // const json = require('../assets/plantilla.json');
-// const json = require('C://Users//José Catalán O//Downloads//bot isa.json');
-const json = require('../assets/2007 capacitacion.json');
+const json = require('../assets/R2R.json');
+var jsonvar;
 @Component({
   selector: 'app-root',
   templateUrl: './app.component.html',
@@ -12,14 +12,22 @@ const json = require('../assets/2007 capacitacion.json');
 })
 export class AppComponent {
   title:string = 'linkBot';
-  jsonFilas = json.qnaDocuments.filter(d=> d.source=='FINSA_LINK_Capacitación_I2O07_PC_V2.1.pdf');
+  source:any;
+  file:any;
+  jsonFilas = json.qnaDocuments;
+  // jsonFilas = json.qnaDocuments.filter(d=> d.source=='FINSA_LINK_Capacitación_I2O07_PC_V2.1.pdf');
   imprime(event){
-
     console.log(JSON.stringify(event));
-
   }
 
-  filtrado(elfiltro:any){
+  filtrado(e:Event){
+    console.log(this.source);
+    this.jsonFilas = json.qnaDocuments.filter(d=> d.source==this.source);
+  }
 
+  searchfile(){
+    jsonvar = require(this.file);
+    this.jsonFilas = jsonvar.qnaDocuments;
+    
   }
 }
