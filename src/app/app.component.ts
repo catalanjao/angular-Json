@@ -3,7 +3,7 @@ import { modelGroupProvider } from '@angular/forms/src/directives/ng_model_group
 import { JsonPipe } from '@angular/common';
 
 // const json = require('../assets/plantilla.json');
-const json = require('../assets/R2R.json');
+const json = require('../assets/RTR11.json');
 var jsonvar;
 @Component({
   selector: 'app-root',
