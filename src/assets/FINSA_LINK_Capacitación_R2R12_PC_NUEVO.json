@@ -12554,8 +12554,7 @@
             "answer": "**![Img 2514]() Contabilizar doc. general (masivo)**\n\nIngrese a la transacción CG3Z.\n\nIngrese la ruta donde se encuentra grabado el fichero (el documento deberá estar previamente creado en formato CSV –delimitado por comas).\n\nIngrese la ruta /usr/sap/tmp/Contb_Masiva/Por_Convertir/más el nombre del archivo (en este caso, Contab.Masiva.Prueba1.csv) en el campo Fich. Destino en serv. aplicación.\n\nPresione el botón Ejecutar.\n\nContabilizar doc. general (masivo)",
             "source": "FINSA_LINK_Capacitación_R2R02_PC_v.f.pdf",
             "questions": [
-                "
-<img imageid=\"I2514\" src=\"\" alt=\"Img 2514\"> Contabilizar doc. general (masivo)"
+                "<img imageid=\"I2514\" src=\"\" alt=\"Img 2514\"> Contabilizar doc. general (masivo)"
             ],
             "metadata": [],
             "alternateQuestions": "[]",
@@ -12568,8 +12567,7 @@
             },
             "num": 569,
             "questionsDelete": [
-                "
-<img imageid=\"I2514\" src=\"\" alt=\"Img 2514\"> Contabilizar doc. general (masivo)"
+                "<img imageid=\"I2514\" src=\"\" alt=\"Img 2514\"> Contabilizar doc. general (masivo)"
             ]
         },
         {
@@ -12577,8 +12575,7 @@
             "answer": "**![Img 2535]() Contabilizar doc. general (masivo)**\n\nPara visualizar el documento ingresado mediante carga masiva, ingrese a la transacción AL11.\n\nRealice doble clic sobre el campo Directorydel parámetro DIR_PERF. En este caso, /usr/sap/tmp.",
             "source": "FINSA_LINK_Capacitación_R2R02_PC_v.f.pdf",
             "questions": [
-                "
-<img imageid=\"I2535\" src=\"\" alt=\"Img 2535\"> Contabilizar doc. general (masivo)"
+                "<img imageid=\"I2535\" src=\"\" alt=\"Img 2535\"> Contabilizar doc. general (masivo)"
             ],
             "metadata": [],
             "alternateQuestions": "[]",
@@ -12591,8 +12588,7 @@
             },
             "num": 570,
             "questionsDelete": [
-                "
-<img imageid=\"I2535\" src=\"\" alt=\"Img 2535\"> Contabilizar doc. general (masivo)"
+                "<img imageid=\"I2535\" src=\"\" alt=\"Img 2535\"> Contabilizar doc. general (masivo)"
             ]
         },
         {
@@ -12642,8 +12638,7 @@
             "answer": "**![Img 2591]() Contabilizar doc. general (masivo)**\n\nIngrese a la transacción ZZF_CONT_MASIV.\n\nValidar que siempre se encuentre activo el modo test, y luego presione el botón Ejecutar.\n\nVerifique la información desplegada por el sistema. Si la información es correcta, presione el botón Atráspara volver a la pantalla anterior, y luego vuelva a apretar el botón Ejecutarhabiendo deshabilitado la opción de modo test.",
             "source": "FINSA_LINK_Capacitación_R2R02_PC_v.f.pdf",
             "questions": [
-                "
-<img imageid=\"I2591\" src=\"\" alt=\"Img 2591\"> Contabilizar doc. general (masivo)"
+                "<img imageid=\"I2591\" src=\"\" alt=\"Img 2591\"> Contabilizar doc. general (masivo)"
             ],
             "metadata": [],
             "alternateQuestions": "[]",
@@ -12656,8 +12651,7 @@
             },
             "num": 573,
             "questionsDelete": [
-                "
-<img imageid=\"I2591\" src=\"\" alt=\"Img 2591\"> Contabilizar doc. general (masivo)"
+                "<img imageid=\"I2591\" src=\"\" alt=\"Img 2591\"> Contabilizar doc. general (masivo)"
             ]
         },
         {
@@ -12833,8 +12827,7 @@
             "answer": "**Campos a completar:**\n\n•Sociedad.\n\n*   \n\nFecha de la 1ra ejecución.\n\n*   \n\nFecha de la última ejecución.\n\n*   \n\nIntervalo en meses.\n\n*   \n\nDía de la ejecución.\n\n*   \n\nClase de documento.\n\n*   \n\nTexto a nivel de línea y de cabecera.\n\n*   \n\nClave de transacción (ClvCT).\n\n*   \n\nCuenta contable.\n\nPresionar Enter.",
             "source": "FINSA_LINK_Capacitación_R2R02_PC_v.f.pdf",
             "questions": [
-                "Campos a completar: - 
-<img imageid=\"I2704\" src=\"\" alt=\"Img 2704\"> Documento periódico preliminar"
+                "Campos a completar: - <img imageid=\"I2704\" src=\"\" alt=\"Img 2704\"> Documento periódico preliminar"
             ],
             "metadata": [],
             "alternateQuestions": "[]",
@@ -12847,8 +12840,7 @@
             },
             "num": 582,
             "questionsDelete": [
-                "Campos a completar: - 
-<img imageid=\"I2704\" src=\"\" alt=\"Img 2704\"> Documento periódico preliminar"
+                "Campos a completar: - <img imageid=\"I2704\" src=\"\" alt=\"Img 2704\"> Documento periódico preliminar"
             ]
         },
         {
@@ -12898,9 +12890,7 @@
             "answer": "**![Img 2788]()![Img 2778]() Procesar documento periódico**\n\nIngresar a la transacción F.14 mediante Easy Access vía el menú de SAP\n\n• Carpeta de Finanzas→Gestión Financiera→Libro Mayor →Operaciones Periódicas→Documentos de referencia→Contabilizaciones periódicas> F.14",
             "source": "FINSA_LINK_Capacitación_R2R02_PC_v.f.pdf",
             "questions": [
-                "
-<img imageid=\"I2788\" src=\"\" alt=\"Img 2788\">
-<img imageid=\"I2778\" src=\"\" alt=\"Img 2778\"> Procesar documento periódico"
+                "<img imageid=\"I2788\" src=\"\" alt=\"Img 2788\"><img imageid=\"I2778\" src=\"\" alt=\"Img 2778\"> Procesar documento periódico"
             ],
             "metadata": [],
             "alternateQuestions": "[]",
@@ -12913,9 +12903,7 @@
             },
             "num": 585,
             "questionsDelete": [
-                "
-<img imageid=\"I2788\" src=\"\" alt=\"Img 2788\">
-<img imageid=\"I2778\" src=\"\" alt=\"Img 2778\"> Procesar documento periódico"
+                "<img imageid=\"I2788\" src=\"\" alt=\"Img 2788\"><img imageid=\"I2778\" src=\"\" alt=\"Img 2778\"> Procesar documento periódico"
             ]
         },
         {
@@ -12923,9 +12911,7 @@
             "answer": "**Campos a completar:**\n\n• Sociedad. \n\n•Ejercicio.\n\n*   \n\nFecha de Intervalo de liquidación.\n\n*   \n\nAsignar un nombre de juego datos BI.\n\nPresionamos Ejecutar.\n\nEl sistema desplegará el mensaje que ya fue creado el documento.\n\nLiberar documento periódico",
             "source": "FINSA_LINK_Capacitación_R2R02_PC_v.f.pdf",
             "questions": [
-                "Campos a completar: - 
-<img imageid=\"I2788\" src=\"\" alt=\"Img 2788\">
-<img imageid=\"I2778\" src=\"\" alt=\"Img 2778\"> Procesar documento periódico"
+                "Campos a completar: - <img imageid=\"I2788\" src=\"\" alt=\"Img 2788\"><img imageid=\"I2778\" src=\"\" alt=\"Img 2778\"> Procesar documento periódico"
             ],
             "metadata": [],
             "alternateQuestions": "[]",
@@ -12938,9 +12924,7 @@
             },
             "num": 586,
             "questionsDelete": [
-                "Campos a completar: - 
-<img imageid=\"I2788\" src=\"\" alt=\"Img 2788\">
-<img imageid=\"I2778\" src=\"\" alt=\"Img 2778\"> Procesar documento periódico"
+                "Campos a completar: - <img imageid=\"I2788\" src=\"\" alt=\"Img 2788\"><img imageid=\"I2778\" src=\"\" alt=\"Img 2778\"> Procesar documento periódico"
             ]
         },
         {
@@ -12948,8 +12932,7 @@
             "answer": "**![Img 2799]() Liberar documento periódico**\n\nIngresar a la transacción SM35.\n\nCampos de Selección de Juegos de datos\n\nSolapas de presentación y selección de Juegos de datos según su estatus .\n\nRevisar documento contabilización periódica",
             "source": "FINSA_LINK_Capacitación_R2R02_PC_v.f.pdf",
             "questions": [
-                "
-<img imageid=\"I2799\" src=\"\" alt=\"Img 2799\"> Liberar documento periódico"
+                "<img imageid=\"I2799\" src=\"\" alt=\"Img 2799\"> Liberar documento periódico"
             ],
             "metadata": [],
             "alternateQuestions": "[]",
@@ -12962,8 +12945,7 @@
             },
             "num": 587,
             "questionsDelete": [
-                "
-<img imageid=\"I2799\" src=\"\" alt=\"Img 2799\"> Liberar documento periódico"
+                "<img imageid=\"I2799\" src=\"\" alt=\"Img 2799\"> Liberar documento periódico"
             ]
         },
         {
@@ -12971,8 +12953,7 @@
             "answer": "**![Img 2818]() Revisar documento contabilización periódica**\n\nIngresar a la transacción F.15 mediante Easy Access o vía el Menú de SAP:\n\n• Carpeta de Finanzas> Gestión Financiera>Libro Mayor>Operaciones Periódicas> Documentos de referencia>Contabilizaciones periódicas> F.15",
             "source": "FINSA_LINK_Capacitación_R2R02_PC_v.f.pdf",
             "questions": [
-                "
-<img imageid=\"I2818\" src=\"\" alt=\"Img 2818\"> Revisar documento contabilización periódica"
+                "<img imageid=\"I2818\" src=\"\" alt=\"Img 2818\"> Revisar documento contabilización periódica"
             ],
             "metadata": [],
             "alternateQuestions": "[]",
@@ -12985,8 +12966,7 @@
             },
             "num": 588,
             "questionsDelete": [
-                "
-<img imageid=\"I2818\" src=\"\" alt=\"Img 2818\"> Revisar documento contabilización periódica"
+                "<img imageid=\"I2818\" src=\"\" alt=\"Img 2818\"> Revisar documento contabilización periódica"
             ]
         },
         {
@@ -12994,8 +12974,7 @@
             "answer": "**Campos a completar:**\n\n•Sociedad.\n\n•Ejercicio.\n\nPresionamos Ejecutar.\n\nModificar documento periódico",
             "source": "FINSA_LINK_Capacitación_R2R02_PC_v.f.pdf",
             "questions": [
-                "Campos a completar: - 
-<img imageid=\"I2818\" src=\"\" alt=\"Img 2818\"> Revisar documento contabilización periódica"
+                "Campos a completar: - <img imageid=\"I2818\" src=\"\" alt=\"Img 2818\"> Revisar documento contabilización periódica"
             ],
             "metadata": [],
             "alternateQuestions": "[]",
@@ -13008,8 +12987,7 @@
             },
             "num": 589,
             "questionsDelete": [
-                "Campos a completar: - 
-<img imageid=\"I2818\" src=\"\" alt=\"Img 2818\"> Revisar documento contabilización periódica"
+                "Campos a completar: - <img imageid=\"I2818\" src=\"\" alt=\"Img 2818\"> Revisar documento contabilización periódica"
             ]
         },
         {
@@ -13080,8 +13058,7 @@
             "answer": "**![Img 2920]() Borrar documento periódico**\n\nSeleccione la línea dónde se encuentra el Juego de datos del proceso a ejecutar.\n\nSeleccione la manera en que se pretende se ejecute el proceso.",
             "source": "FINSA_LINK_Capacitación_R2R02_PC_v.f.pdf",
             "questions": [
-                "
-<img imageid=\"I2920\" src=\"\" alt=\"Img 2920\"> Borrar documento periódico"
+                "<img imageid=\"I2920\" src=\"\" alt=\"Img 2920\"> Borrar documento periódico"
             ],
             "metadata": [],
             "alternateQuestions": "[]",
@@ -13094,8 +13071,7 @@
             },
             "num": 593,
             "questionsDelete": [
-                "
-<img imageid=\"I2920\" src=\"\" alt=\"Img 2920\"> Borrar documento periódico"
+                "<img imageid=\"I2920\" src=\"\" alt=\"Img 2920\"> Borrar documento periódico"
             ]
         },
         {
@@ -13691,9 +13667,7 @@
             "answer": "**Campos a completar:**\n\n•Importe.\n\n• Centro de beneficio.\n\nPresione Entery luego Grabar.\n\nEl sistema desplegará el siguiente mensaje con el Nro. de documento preliminar creado \n\nContabilizar documento preliminar",
             "source": "FINSA_LINK_Capacitación_R2R02_PC_v.f.pdf",
             "questions": [
-                "Campos a completar: - 
-<img imageid=\"I3527\" src=\"\" alt=\"Img 3527\">
-<img imageid=\"I3519\" src=\"\" alt=\"Img 3519\"> Registrar documento preliminar"
+                "Campos a completar: - <img imageid=\"I3527\" src=\"\" alt=\"Img 3527\"><img imageid=\"I3519\" src=\"\" alt=\"Img 3519\"> Registrar documento preliminar"
             ],
             "metadata": [],
             "alternateQuestions": "[]",
@@ -13706,9 +13680,7 @@
             },
             "num": 622,
             "questionsDelete": [
-                "Campos a completar: - 
-<img imageid=\"I3527\" src=\"\" alt=\"Img 3527\">
-<img imageid=\"I3519\" src=\"\" alt=\"Img 3519\"> Registrar documento preliminar"
+                "Campos a completar: - <img imageid=\"I3527\" src=\"\" alt=\"Img 3527\"><img imageid=\"I3519\" src=\"\" alt=\"Img 3519\"> Registrar documento preliminar"
             ]
         },
         {
@@ -13716,8 +13688,7 @@
             "answer": "**![Img 3535]() Contabilizar documento preliminar**\n\nIngresar a la transacción FBV0mediante Easy Accesso vía Menú de SAP: \n\n• Carpeta de Finanzas→Gestión Financiera→Libro Mayor→Documento pre→Documento preliminar→FBV0-Contab./borrar",
             "source": "FINSA_LINK_Capacitación_R2R02_PC_v.f.pdf",
             "questions": [
-                "
-<img imageid=\"I3535\" src=\"\" alt=\"Img 3535\"> Contabilizar documento preliminar"
+                "<img imageid=\"I3535\" src=\"\" alt=\"Img 3535\"> Contabilizar documento preliminar"
             ],
             "metadata": [],
             "alternateQuestions": "[]",
@@ -13730,8 +13701,7 @@
             },
             "num": 623,
             "questionsDelete": [
-                "
-<img imageid=\"I3535\" src=\"\" alt=\"Img 3535\"> Contabilizar documento preliminar"
+                "<img imageid=\"I3535\" src=\"\" alt=\"Img 3535\"> Contabilizar documento preliminar"
             ]
         },
         {
@@ -13739,8 +13709,7 @@
             "answer": "**Campos a completar:**\n\n•Sociedad.\n\n•Ejercicio.\n\nPresionamos el ícono “Lista de documentos”.\n\nContabilizar documento preliminar",
             "source": "FINSA_LINK_Capacitación_R2R02_PC_v.f.pdf",
             "questions": [
-                "Campos a completar: - 
-<img imageid=\"I3535\" src=\"\" alt=\"Img 3535\"> Contabilizar documento preliminar"
+                "Campos a completar: - <img imageid=\"I3535\" src=\"\" alt=\"Img 3535\"> Contabilizar documento preliminar"
             ],
             "metadata": [],
             "alternateQuestions": "[]",
@@ -13753,8 +13722,7 @@
             },
             "num": 624,
             "questionsDelete": [
-                "Campos a completar: - 
-<img imageid=\"I3535\" src=\"\" alt=\"Img 3535\"> Contabilizar documento preliminar"
+                "Campos a completar: - <img imageid=\"I3535\" src=\"\" alt=\"Img 3535\"> Contabilizar documento preliminar"
             ]
         },
         {
@@ -13762,8 +13730,7 @@
             "answer": "**![Img 3553]() Contabilizar documento preliminar**\n\nLuego de ingresados los datos se despliega la siguiente pantalla en la cual se debe presionar el ícono de Ejecutar.\n\nDar doble clic sobre el documento a procesar, en este caso será el 100000089 ",
             "source": "FINSA_LINK_Capacitación_R2R02_PC_v.f.pdf",
             "questions": [
-                "
-<img imageid=\"I3553\" src=\"\" alt=\"Img 3553\"> Contabilizar documento preliminar"
+                "<img imageid=\"I3553\" src=\"\" alt=\"Img 3553\"> Contabilizar documento preliminar"
             ],
             "metadata": [],
             "alternateQuestions": "[]",
@@ -13776,8 +13743,7 @@
             },
             "num": 625,
             "questionsDelete": [
-                "
-<img imageid=\"I3553\" src=\"\" alt=\"Img 3553\"> Contabilizar documento preliminar"
+                "<img imageid=\"I3553\" src=\"\" alt=\"Img 3553\"> Contabilizar documento preliminar"
             ]
         },
         {
@@ -13806,8 +13772,7 @@
             "answer": "**![Img 3587]() Modificar documento preliminar**\n\nIngresar a la transacción FBV2medianteEasy Access o vía Menú de SAP: \n\n• Carpeta de Finanzas→Gestión Financiera→Libro Mayor→Documento pre→Documento preliminar→FVB2 -Modificar",
             "source": "FINSA_LINK_Capacitación_R2R02_PC_v.f.pdf",
             "questions": [
-                "
-<img imageid=\"I3587\" src=\"\" alt=\"Img 3587\"> Modificar documento preliminar"
+                "<img imageid=\"I3587\" src=\"\" alt=\"Img 3587\"> Modificar documento preliminar"
             ],
             "metadata": [],
             "alternateQuestions": "[]",
@@ -13820,8 +13785,7 @@
             },
             "num": 627,
             "questionsDelete": [
-                "
-<img imageid=\"I3587\" src=\"\" alt=\"Img 3587\"> Modificar documento preliminar"
+                "<img imageid=\"I3587\" src=\"\" alt=\"Img 3587\"> Modificar documento preliminar"
             ]
         },
         {
@@ -13829,8 +13793,7 @@
             "answer": "**Campos a completar:**\n\n•Sociedad.\n\n•Ejercicio.\n\nPresionamos el ícono “Lista de documentos”.\n\nModificar documento preliminar",
             "source": "FINSA_LINK_Capacitación_R2R02_PC_v.f.pdf",
             "questions": [
-                "Campos a completar: - 
-<img imageid=\"I3587\" src=\"\" alt=\"Img 3587\"> Modificar documento preliminar"
+                "Campos a completar: - <img imageid=\"I3587\" src=\"\" alt=\"Img 3587\"> Modificar documento preliminar"
             ],
             "metadata": [],
             "alternateQuestions": "[]",
@@ -13843,8 +13806,7 @@
             },
             "num": 628,
             "questionsDelete": [
-                "Campos a completar: - 
-<img imageid=\"I3587\" src=\"\" alt=\"Img 3587\"> Modificar documento preliminar"
+                "Campos a completar: - <img imageid=\"I3587\" src=\"\" alt=\"Img 3587\"> Modificar documento preliminar"
             ]
         },
         {
@@ -13852,8 +13814,7 @@
             "answer": "**![Img 3601]() Modificar documento preliminar**\n\nLuego de ingresados los datos se despliega la siguiente pantalla en la cual se debe presionar el ícono de Ejecutar.\n\nDar doble clic sobre el documento a procesar, en este caso será el 100000018 \n\nModificar documento preliminar",
             "source": "FINSA_LINK_Capacitación_R2R02_PC_v.f.pdf",
             "questions": [
-                "
-<img imageid=\"I3601\" src=\"\" alt=\"Img 3601\"> Modificar documento preliminar"
+                "<img imageid=\"I3601\" src=\"\" alt=\"Img 3601\"> Modificar documento preliminar"
             ],
             "metadata": [],
             "alternateQuestions": "[]",
@@ -13866,8 +13827,7 @@
             },
             "num": 629,
             "questionsDelete": [
-                "
-<img imageid=\"I3601\" src=\"\" alt=\"Img 3601\"> Modificar documento preliminar"
+                "<img imageid=\"I3601\" src=\"\" alt=\"Img 3601\"> Modificar documento preliminar"
             ]
         },
         {
@@ -13875,8 +13835,7 @@
             "answer": "**![Img 3619]() Modificar documento preliminar**\n\nEn esta pantalla se podrán realizar los cambios en los campos que se necesitarán realizar. Para el ejemplo se modificará el importede 1.700,00 por 1.550,00.\n\nLuego de modificar, presionar el ícono de Grabar.\n\nEl sistema desplegará un mensaje indicando el documento cambiado.\n\nModificar cabecera documento preliminar",
             "source": "FINSA_LINK_Capacitación_R2R02_PC_v.f.pdf",
             "questions": [
-                "
-<img imageid=\"I3619\" src=\"\" alt=\"Img 3619\"> Modificar documento preliminar"
+                "<img imageid=\"I3619\" src=\"\" alt=\"Img 3619\"> Modificar documento preliminar"
             ],
             "metadata": [],
             "alternateQuestions": "[]",
@@ -13889,8 +13848,7 @@
             },
             "num": 630,
             "questionsDelete": [
-                "
-<img imageid=\"I3619\" src=\"\" alt=\"Img 3619\"> Modificar documento preliminar"
+                "<img imageid=\"I3619\" src=\"\" alt=\"Img 3619\"> Modificar documento preliminar"
             ]
         },
         {
@@ -13898,9 +13856,7 @@
             "answer": "**![Img 3639]()![Img 3647]() Modificar cabecera documento preliminar**\n\nIngresar a la transacción FBV4 medianteEasy Acces o vía Menú de SAP: \n\n• Carpeta de Finanzas> Gestión Financiera>Libro Mayor>Documento pre> Documento preliminar> FVB4 –Modif. cabecera",
             "source": "FINSA_LINK_Capacitación_R2R02_PC_v.f.pdf",
             "questions": [
-                "
-<img imageid=\"I3639\" src=\"\" alt=\"Img 3639\">
-<img imageid=\"I3647\" src=\"\" alt=\"Img 3647\"> Modificar cabecera documento preliminar"
+                "<img imageid=\"I3639\" src=\"\" alt=\"Img 3639\"><img imageid=\"I3647\" src=\"\" alt=\"Img 3647\"> Modificar cabecera documento preliminar"
             ],
             "metadata": [],
             "alternateQuestions": "[]",
@@ -13913,9 +13869,7 @@
             },
             "num": 631,
             "questionsDelete": [
-                "
-<img imageid=\"I3639\" src=\"\" alt=\"Img 3639\">
-<img imageid=\"I3647\" src=\"\" alt=\"Img 3647\"> Modificar cabecera documento preliminar"
+                "<img imageid=\"I3639\" src=\"\" alt=\"Img 3639\"><img imageid=\"I3647\" src=\"\" alt=\"Img 3647\"> Modificar cabecera documento preliminar"
             ]
         },
         {
@@ -13923,9 +13877,7 @@
             "answer": "**Campos a completar:**\n\n•Sociedad.\n\n•Ejercicio.\n\nPresionamos el ícono “Lista de documentos”.\n\nModificar cabecera documento preliminar",
             "source": "FINSA_LINK_Capacitación_R2R02_PC_v.f.pdf",
             "questions": [
-                "Campos a completar: - 
-<img imageid=\"I3639\" src=\"\" alt=\"Img 3639\">
-<img imageid=\"I3647\" src=\"\" alt=\"Img 3647\"> Modificar cabecera documento preliminar"
+                "Campos a completar: - <img imageid=\"I3639\" src=\"\" alt=\"Img 3639\"><img imageid=\"I3647\" src=\"\" alt=\"Img 3647\"> Modificar cabecera documento preliminar"
             ],
             "metadata": [],
             "alternateQuestions": "[]",
@@ -13938,9 +13890,7 @@
             },
             "num": 632,
             "questionsDelete": [
-                "Campos a completar: - 
-<img imageid=\"I3639\" src=\"\" alt=\"Img 3639\">
-<img imageid=\"I3647\" src=\"\" alt=\"Img 3647\"> Modificar cabecera documento preliminar"
+                "Campos a completar: - <img imageid=\"I3639\" src=\"\" alt=\"Img 3639\"><img imageid=\"I3647\" src=\"\" alt=\"Img 3647\"> Modificar cabecera documento preliminar"
             ]
         },
         {
@@ -13948,8 +13898,7 @@
             "answer": "**![Img 3653]() Modificar cabecera documento preliminar**\n\nLuego de ingresados los datos se despliega la siguiente pantalla en la cual se debe presionar el ícono de Ejecutar.\n\nDar doble clic sobre el documento a procesar, en este caso será el 100000018 \n\nModificar cabecera documento preliminar",
             "source": "FINSA_LINK_Capacitación_R2R02_PC_v.f.pdf",
             "questions": [
-                "
-<img imageid=\"I3653\" src=\"\" alt=\"Img 3653\"> Modificar cabecera documento preliminar"
+                "<img imageid=\"I3653\" src=\"\" alt=\"Img 3653\"> Modificar cabecera documento preliminar"
             ],
             "metadata": [],
             "alternateQuestions": "[]",
@@ -13962,8 +13911,7 @@
             },
             "num": 633,
             "questionsDelete": [
-                "
-<img imageid=\"I3653\" src=\"\" alt=\"Img 3653\"> Modificar cabecera documento preliminar"
+                "<img imageid=\"I3653\" src=\"\" alt=\"Img 3653\"> Modificar cabecera documento preliminar"
             ]
         },
         {
@@ -13971,8 +13919,7 @@
             "answer": "**![Img 3666]() Modificar cabecera documento preliminar**\n\nRealizar las modificaciones en el texto y Referencia que se deseen.\n\nLuego de modificar, presionar el ícono de Grabar.\n\nEl sistema desplegará un mensaje indicando el documento modificado.",
             "source": "FINSA_LINK_Capacitación_R2R02_PC_v.f.pdf",
             "questions": [
-                "
-<img imageid=\"I3666\" src=\"\" alt=\"Img 3666\"> Modificar cabecera documento preliminar"
+                "<img imageid=\"I3666\" src=\"\" alt=\"Img 3666\"> Modificar cabecera documento preliminar"
             ],
             "metadata": [],
             "alternateQuestions": "[]",
@@ -13985,8 +13932,7 @@
             },
             "num": 634,
             "questionsDelete": [
-                "
-<img imageid=\"I3666\" src=\"\" alt=\"Img 3666\"> Modificar cabecera documento preliminar"
+                "<img imageid=\"I3666\" src=\"\" alt=\"Img 3666\"> Modificar cabecera documento preliminar"
             ]
         },
         {
@@ -18872,24 +18818,576 @@
             ]
         },
         {
+            "id": 866,
+            "answer": "**Agosto, 2018**\n\n#yomeentreno",
+            "source": "FINSA_LINK_Capacitación_R2R12_PC_NUEVO.pdf",
+            "questions": [
+              "Agosto, 2018 - Libro caja(movimientos de caja)"
+            ],
+            "metadata": [
+              
+            ],
+            "alternateQuestions": "[]",
+            "alternateQuestionClusters": [
+              
+            ],
+            "changeStatus": "Update",
+            "kbId": "b8dce123-f35d-412f-9620-a8cc1bdb8efc",
+            "context": {
+              "isContextOnly": false,
+              "prompts": [
+                
+              ]
+            },
+            "num": 847,
+            "questionsDelete": [
+              "Agosto, 2018 - Libro caja(movimientos de caja)"
+            ]
+        },
+        {
+            "id": 867,
+            "answer": "**Experiencia de capacitación**\n\nCursos presenciales\n\nEscenarios reales\n\nGuías de usuarios\n\nEjercicios prácticos",
+            "source": "FINSA_LINK_Capacitación_R2R12_PC_NUEVO.pdf",
+            "questions": [
+              "Experiencia de capacitación"
+            ],
+            "metadata": [
+              
+            ],
+            "alternateQuestions": "[]",
+            "alternateQuestionClusters": [
+              
+            ],
+            "changeStatus": "Update",
+            "kbId": "b8dce123-f35d-412f-9620-a8cc1bdb8efc",
+            "context": {
+              "isContextOnly": false,
+              "prompts": [
+                
+              ]
+            },
+            "num": 848,
+            "questionsDelete": [
+              "Experiencia de capacitación"
+            ]
+        },
+        {
+            "id": 868,
+            "answer": "**Para potenciar la experiencia de aprendizaje, es importante que sigamos las siguientes reglas:**\n\nRespetar los tiempos del curso\n\nApagar el teléfono móvil o configurarlo en modo silencio/vibrador\n\nAbstenerse de usar la computadora para propósitos que no sean del curso\n\nEvacuar todas las dudas y consultas\n\nParticipar activamente\n\nEvaluación Online\n\nAl finalizar el curso, completarán una evaluación online:\n\n*   \n\n10 preguntas\n\n*   \n\n80% para la aprobación\n\n*   \n\n2 oportunidades para aprobar",
+            "source": "FINSA_LINK_Capacitación_R2R12_PC_NUEVO.pdf",
+            "questions": [
+              "Para potenciar la experiencia de aprendizaje, es importante que sigamos las siguientes reglas:"
+            ],
+            "metadata": [
+              
+            ],
+            "alternateQuestions": "[]",
+            "alternateQuestionClusters": [
+              
+            ],
+            "changeStatus": "Update",
+            "kbId": "b8dce123-f35d-412f-9620-a8cc1bdb8efc",
+            "context": {
+              "isContextOnly": false,
+              "prompts": [
+                
+              ]
+            },
+            "num": 849,
+            "questionsDelete": [
+              "Para potenciar la experiencia de aprendizaje, es importante que sigamos las siguientes reglas:"
+            ]
+        },
+        {
+            "id": 869,
+            "answer": "**Agenda del curso**\n\nINTRODUCCIÓN AL CURSO - 15 min\nINTRODUCCIÓN A LIBRO DE CAJA (MOVIMIENTO DE CAJA) - 30 min\nLIBRO DE CAJA (MOVIMIENTO DE CAJA) - 60 min\nCIERRE DEL CURSO - 15 min",
+            "source": "FINSA_LINK_Capacitación_R2R12_PC_NUEVO.pdf",
+            "questions": [
+              "Agenda del curso - Agosto, 2018 - Libro caja(movimientos de caja)"
+            ],
+            "metadata": [
+              
+            ],
+            "alternateQuestions": "[]",
+            "alternateQuestionClusters": [
+              
+            ],
+            "changeStatus": "Update",
+            "kbId": "b8dce123-f35d-412f-9620-a8cc1bdb8efc",
+            "context": {
+              "isContextOnly": false,
+              "prompts": [
+                
+              ]
+            },
+            "num": 850,
+            "questionsDelete": [
+              "Agenda del curso - Agosto, 2018 - Libro caja(movimientos de caja)"
+            ]
+        },
+        {
+            "id": 870,
+            "answer": "**Objetivos del curso:**\n\n\n▪ Ingresar al libro caja.\n▪ Identificar los tipos de movimiento.\n▪ Ejecutar la contabilización de recaudación en efectivo.\n▪ Imprimir recibo.\n▪ Imprimir diario de caja (cerrar caja).",
+            "source": "FINSA_LINK_Capacitación_R2R12_PC_NUEVO.pdf",
+            "questions": [
+              "Objetivos del curso - Agosto, 2018 - Libro caja(movimientos de caja)"
+            ],
+            "metadata": [
+              
+            ],
+            "alternateQuestions": "[]",
+            "alternateQuestionClusters": [
+              
+            ],
+            "changeStatus": "Update",
+            "kbId": "b8dce123-f35d-412f-9620-a8cc1bdb8efc",
+            "context": {
+              "isContextOnly": false,
+              "prompts": [
+                
+              ]
+            },
+            "num": 851,
+            "questionsDelete": [
+              "Al finalizar este curso, los participantes podrán:"
+            ]
+        },
+        {
+            "id": 871,
+            "answer": "**¿Qué procesos están involucrados?**\n\nRecord to Report",
+            "source": "FINSA_LINK_Capacitación_R2R12_PC_NUEVO.pdf",
+            "questions": [
+              "¿Qué procesos están involucrados?"
+            ],
+            "metadata": [
+              
+            ],
+            "alternateQuestions": "[]",
+            "alternateQuestionClusters": [
+              
+            ],
+            "changeStatus": "Update",
+            "kbId": "b8dce123-f35d-412f-9620-a8cc1bdb8efc",
+            "context": {
+              "isContextOnly": false,
+              "prompts": [
+                
+              ]
+            },
+            "num": 852,
+            "questionsDelete": [
+              "¿Qué procesos están involucrados?"
+            ]
+        },
+        {
+            "id": 872,
+            "answer": "**Record to Report**\n\nControl Interno\nTesorería\nImpuestos\nGestión de Activos Fijos\nContabilidad General",
+            "source": "FINSA_LINK_Capacitación_R2R12_PC_NUEVO.pdf",
+            "questions": [
+              "Record to Report"
+            ],
+            "metadata": [
+              
+            ],
+            "alternateQuestions": "[]",
+            "alternateQuestionClusters": [
+              
+            ],
+            "changeStatus": "Update",
+            "kbId": "b8dce123-f35d-412f-9620-a8cc1bdb8efc",
+            "context": {
+              "isContextOnly": false,
+              "prompts": [
+                
+              ]
+            },
+            "num": 853,
+            "questionsDelete": [
+              "Record to Report"
+            ]
+        },
+        {
+            "id": 873,
+            "answer": "**Tesorería**\n\nGestión de Extractos Bancarios\nRecepción, carga y conciliación de extractos bancarios.\n\nLibro Caja\nActividades de gestión de movimientos de caja.\n\nPosición y Previsión de Tesorería \nEjecución de reportes de posición y de previsión de tesorería. Gestión de avisos.\n\nGestión de Datos Maestros de Socios Comerciales \nActividades de gestión de Business Partners. Creación o visualización de cuentas de banco, actualización de datos de banco, bloqueo o desbloqueo de cuenta\n\nGestión de Cheques\nMantenimiento de la remesa de cheques que se tienen en inventario para utilizar en los diversos pagos.\n\nProcesamiento y Aprobación de Pagos\nRealización de pagos manuales a proveedores o empleados. \nModificación, grabación, contabilización y aprobación de las propuestas de pago a proveedores.\n\nGestión de Datos Maestros  de Cuentas Bancarias\nGestión de cuentas bancarias. Obtención de información del banco, creación de cuenta de banco. Actualización, bloqueo y desbloqueo de datos de banco.\n\nContabilización de Operaciones de Tesorería\nActividades de operación de tesorería: cotización de tasas en el mercado y selección de BP.\n\nGestión de Compra y Venta de Moneda\nIdentificación de la necesidad de compra, cotización de tipos de cambio, selección de BP y gestión de la operación.\n\nContaduría\nImplica la contabilización de operaciones, la verificación del tipo de cambio, la revisión de intereses, y la anulación o modificación de contratos.\n\nGestión de Depósitos de Términos \nProceso por el cual se gestionan los depósitos a plazo fijo. Cotización de tasas en el mercado, selección de BP y gestión de la operación.\n\nGestión de Confirming\nProceso por el cual se realiza el confirming en TRM para el pago de facturas de proveedores. Cotización de tasas en el mercado, selección de BP y gestión de la operación.\n\nGestión de Boleta de Garantía\nIdentificación de la necesidad de operación de línea de crédito, selección del BP y gestión de la operación.\n\nGestión de Préstamo de Banco\nProceso por el cual se gestiona la operación de préstamos con instituciones financieras. Identificación de  la necesidad, selección del BP y gestión de la operación.\n\nGestión de Control de Línea de Crédito\nActividades de control de líneas de crédito bancarias de las diferentes compañías. Identificación de la necesidad, selección del BP y gestión de la operación.\n\nOperación de Cierre\nProceso por el cual se realizan tareas de cierre mensual de TRM.\nEjecución de traslado de C/P, ingreso mark to market y devengo de intereses.\n\nEjecución de Reportes (Tesorería)\nEjecución de reportes necesarios para ver evoluciones, resúmenes y operaciones.\n\nCarga de Retenciones\nContabilización de los certificados de retención en el sistema y envío los certificados de retención al área de impuestos.",
+            "source": "FINSA_LINK_Capacitación_R2R12_PC_NUEVO.pdf",
+            "questions": [
+              "Tesorería"
+            ],
+            "metadata": [
+              
+            ],
+            "alternateQuestions": "[]",
+            "alternateQuestionClusters": [
+              
+            ],
+            "changeStatus": "Update",
+            "kbId": "b8dce123-f35d-412f-9620-a8cc1bdb8efc",
+            "context": {
+              "isContextOnly": false,
+              "prompts": [
+                
+              ]
+            },
+            "num": 854,
+            "questionsDelete": [
+              "Tesorería - Objetivos del curso"
+            ]
+        },
+        {
+            "id": 874,
+            "answer": "**Agenda del curso**\n\nINTRODUCCIÓN\n\nAL CURSO\n\nLIBRO DE CAJA (MOVIMIENTO DE CAJA)\n\n15 minutos\n\nINTRODUCCIÓN\n\nA LIBRO DE CAJA (MOVIMIENTO DE CAJA)\n\n30 minutos\n\n60 minutos\n\nCIERRE\n\nDEL CURSO\n\n15 minutos",
+            "source": "FINSA_LINK_Capacitación_R2R12_PC_NUEVO.pdf",
+            "questions": [
+              "Agenda del curso - Agosto, 2018 - Libro caja(movimientos de caja)"
+            ],
+            "metadata": [
+              
+            ],
+            "alternateQuestions": "[]",
+            "alternateQuestionClusters": [
+              
+            ],
+            "changeStatus": "Update",
+            "kbId": "b8dce123-f35d-412f-9620-a8cc1bdb8efc",
+            "context": {
+              "isContextOnly": false,
+              "prompts": [
+                
+              ]
+            },
+            "num": 855,
+            "questionsDelete": [
+              "Agenda del curso - Agosto, 2018 - Libro caja(movimientos de caja)"
+            ]
+        },
+        {
+            "id": 875,
+            "answer": "**Sumario del proceso**\n\n• Proceso de movimientos de caja recaudadora (de efectivo)que se realizan en las sucursales y oficinas de FINSA.\n\n• La entrada de dinerodebe estar respaldada por la documentación acorde,que refleje dicho movimiento en SAP.\n\n• Se pueden ejecutar varios libros de caja para una misma sociedad. También se pueden llevar a cabo contabilizaciones a cuentas de mayor, así como a cuentas de acreedor y de deudor.\n• Las operaciones que se pueden realizar son:\n>Carga inicial:Saldo inicial de caja (se realizará con la salida en vivodel sistema).\n>Recaudación de efectivo:registro de dinero en efectivo recaudado en caja.\n>Salida de remesas por recaudación de efectivo para ser depositados en banco.",
+            "source": "FINSA_LINK_Capacitación_R2R12_PC_NUEVO.pdf",
+            "questions": [
+              "INTRODUCCIÓN A LIBRO DE CAJA "
+            ],
+            "metadata": [
+              
+            ],
+            "alternateQuestions": "[]",
+            "alternateQuestionClusters": [
+              
+            ],
+            "changeStatus": "Update",
+            "kbId": "b8dce123-f35d-412f-9620-a8cc1bdb8efc",
+            "context": {
+              "isContextOnly": false,
+              "prompts": [
+                
+              ]
+            },
+            "num": 856,
+            "questionsDelete": [
+              "Sumario del proceso"
+            ]
+        },
+        {
+            "id": 876,
+            "answer": "**¿QUÉ CAMBIÓ EN EL PROCESO DE LIBRO DE CAJA?**\n\nUsuarios deben asimilar/aprender las nuevas cuentas contables de banco y cuentas corrientes de clientes en SAP para administrar el Libro Caja",
+            "source": "FINSA_LINK_Capacitación_R2R12_PC_NUEVO.pdf",
+            "questions": [
+              "Encuadre del proceso - ¿QUÉ CAMBIÓ EN EL PROCESO DE LIBRO DE CAJA?"
+            ],
+            "metadata": [
+              
+            ],
+            "alternateQuestions": "[]",
+            "alternateQuestionClusters": [
+              
+            ],
+            "changeStatus": "Update",
+            "kbId": "b8dce123-f35d-412f-9620-a8cc1bdb8efc",
+            "context": {
+              "isContextOnly": false,
+              "prompts": [
+                
+              ]
+            },
+            "num": 857,
+            "questionsDelete": [
+              "¿QUÉ CAMBIÓ EN EL PROCESO DE LIBRO DE CAJA?"
+            ]
+        },
+        {
+            "id": 877,
+            "answer": "**Libro caja (movimientos de caja)**\n\nAnalista de tesoreríaAdministrativo de sucursal\n\nIngresar a librocaja y seleccionar información para ejecutar contabilización\n\nEjecutar contabilización\n\nCerrar caja\n\nImprimir Recibo\n\nEn SAP\n\nAutomático\n\nManual\n\nEn otro Sistema\n\nEn otro curso",
+            "source": "FINSA_LINK_Capacitación_R2R12_PC_NUEVO.pdf",
+            "questions": [
+              "Libro caja (movimientos de caja) - Agosto, 2018 - Libro caja(movimientos de caja)"
+            ],
+            "metadata": [
+              
+            ],
+            "alternateQuestions": "[]",
+            "alternateQuestionClusters": [
+              
+            ],
+            "changeStatus": "Update",
+            "kbId": "b8dce123-f35d-412f-9620-a8cc1bdb8efc",
+            "context": {
+              "isContextOnly": false,
+              "prompts": [
+                
+              ]
+            },
+            "num": 858,
+            "questionsDelete": [
+              "Libro caja (movimientos de caja) - Agosto, 2018 - Libro caja(movimientos de caja)"
+            ]
+        },
+        {
+            "id": 878,
+            "answer": "**Conceptos claves**\n\nSAP ECC(Enterprise Central Component)\n• Sistema empresarial adoptado por FINSA donde se registrarán todos los datos maestros y documentos(contabilizaciones). \n\nFI (FinancialAccounting)\n• Módulo financierode SAP.\n\nTR (Treasury)\n• Sub-modulo donde se manejan lasoperaciones bancarias y el control del flujo de cajadentro de las entidades financieras (sociedades FI).\n\nSociedad FI \n• Estructura organizacional más pequeña para la cual se pueden generar balances, y la cual contiene un listado de cuentas que componen el Plan de Cuentas. Esto incluye el ingreso de todas las transacciones que deben ser contabilizadas, y la creación de balances contables que se deben presentar a las autoridades. La Sociedad FI en SAP representará a una entidad legal.\nFINSA actualmente tiene operaciones en cuatro países: Chile, Bolivia, Argentina y Uruguay, distribuidas en16 sociedades FI.\nEjemplo Argentina:3010, 3011, 3013.\n\nMultisociedad\n• Se trata de la asociación de la contabilización realizada simultáneamente en dos sociedades FI. Es deciroperaciones inter-company. \n\nLibro de caja\n• Es unauxiliar de la contabilidad bancaria. \n• Se usa para gestionar los movimientos de caja de una sociedad FI. \n• El sistema calcula automáticamente y visualiza los saldos iniciales y finales, y el total de ingresos (recaudación). \n",
+            "source": "FINSA_LINK_Capacitación_R2R12_PC_NUEVO.pdf",
+            "questions": [
+              "Conceptos claves - Libro caja (movimientos de caja)"
+            ],
+            "metadata": [
+              
+            ],
+            "alternateQuestions": "[]",
+            "alternateQuestionClusters": [
+              
+            ],
+            "changeStatus": "Update",
+            "kbId": "b8dce123-f35d-412f-9620-a8cc1bdb8efc",
+            "context": {
+              "isContextOnly": false,
+              "prompts": [
+                
+              ]
+            },
+            "num": 859,
+            "questionsDelete": [
+              "Conceptos claves - Libro caja (movimientos de caja)"
+            ]
+        },
+        {
+            "id": 879,
+            "answer": "**The DESCRIPCIÓN for # CONCEPTOS 5 Multisociedad**\nis • Se trata de la asociación de la contabilización realizada simultáneamente en dos sociedades FI. Es deciroperaciones inter-company.",
+            "source": "FINSA_LINK_Capacitación_R2R12_PC_NUEVO.pdf",
+            "questions": [
+              "The DESCRIPCIÓN for # CONCEPTOS 5 Multisociedad - Conceptos claves"
+            ],
+            "metadata": [
+              {
+                "name": "generatedfromtable",
+                "value": "true"
+              }
+            ],
+            "alternateQuestions": "[]",
+            "alternateQuestionClusters": [
+              
+            ],
+            "changeStatus": "Update",
+            "kbId": "b8dce123-f35d-412f-9620-a8cc1bdb8efc",
+            "context": {
+              "isContextOnly": false,
+              "prompts": [
+                
+              ]
+            },
+            "num": 860,
+            "questionsDelete": [
+              "The DESCRIPCIÓN for # CONCEPTOS 5 Multisociedad - Conceptos claves"
+            ]
+        },
+        {
+            "id": 880,
+            "answer": "**The DESCRIPCIÓN for # CONCEPTOS 6 Libro de caja**\nis • Es unauxiliar de la contabilidad bancaria. • Se usa para gestionar los movimientos de caja de una sociedad FI. • El sistema calcula automáticamente y visualiza los saldos iniciales y finales, y el total de ingresos (recaudación).",
+            "source": "FINSA_LINK_Capacitación_R2R12_PC_NUEVO.pdf",
+            "questions": [
+              "The DESCRIPCIÓN for # CONCEPTOS 6 Libro de caja - Conceptos claves"
+            ],
+            "metadata": [
+              {
+                "name": "generatedfromtable",
+                "value": "true"
+              }
+            ],
+            "alternateQuestions": "[]",
+            "alternateQuestionClusters": [
+              
+            ],
+            "changeStatus": "Update",
+            "kbId": "b8dce123-f35d-412f-9620-a8cc1bdb8efc",
+            "context": {
+              "isContextOnly": false,
+              "prompts": [
+                
+              ]
+            },
+            "num": 861,
+            "questionsDelete": [
+              "The DESCRIPCIÓN for # CONCEPTOS 6 Libro de caja - Conceptos claves"
+            ]
+        },
+        {
+            "id": 881,
+            "answer": "**En este tópico, vamos a trabajar en:**\n\n▪ Seleccionar la información para la posterior contabilización.\n▪ Ejecutar una contabilización.\n▪ Imprimir un recibo.\n▪ Cerrar caja (imprimir diario)",
+            "source": "FINSA_LINK_Capacitación_R2R12_PC_NUEVO.pdf",
+            "questions": [
+              "Agenda del curso - Libro caja (movimientos de caja) - Agosto, 2018"
+            ],
+            "metadata": [
+              
+            ],
+            "alternateQuestions": "[]",
+            "alternateQuestionClusters": [
+              
+            ],
+            "changeStatus": "Update",
+            "kbId": "b8dce123-f35d-412f-9620-a8cc1bdb8efc",
+            "context": {
+              "isContextOnly": false,
+              "prompts": [
+                
+              ]
+            },
+            "num": 862,
+            "questionsDelete": [
+              "Agenda del curso - Libro caja (movimientos de caja) - Agosto, 2018 - Libro caja(movimientos de caja)"
+            ]
+        },
+        {
+            "id": 882,
+            "answer": "**Ingresar a libro caja y seleccionar información para ejecutar contabilización**\n\nIngresar a libro caja y seleccionar información para ejecutar contabilización\nEjecutar contabilización \nImprimir Recibo\nCerrar caja ",
+            "source": "FINSA_LINK_Capacitación_R2R12_PC_NUEVO.pdf",
+            "questions": [
+              "Libro caja(movimientos de caja)"
+            ],
+            "metadata": [
+              
+            ],
+            "alternateQuestions": "[]",
+            "alternateQuestionClusters": [
+              
+            ],
+            "changeStatus": "Update",
+            "kbId": "b8dce123-f35d-412f-9620-a8cc1bdb8efc",
+            "context": {
+              "isContextOnly": false,
+              "prompts": [
+                
+              ]
+            },
+            "num": 863,
+            "questionsDelete": [
+              "En este tópico, vamos a trabajar en:"
+            ]
+        },
+        {
+            "id": 883,
+            "answer": "**Ingresar a libro caja y seleccionar información para ejecutar**\n\nIngresar a la transacción FBCJ por entrada de comandos. \nTambién es posible ingresar desde el Menú SAP: Finanzas -> Gestión Financiera. \n\"La transacción permite registrar y tener un control más exhaustivo de todas las operaciones al contado que realiza la empresa.\"\n\nAl ingresar a la transacción, se visualiza la pantalla principal.\nCampos a completar: \n• Libro de caja. \n• Sociedad.\n\nSe puede cambiar la sociedad o el libro de caja haciendo clic en “Cambiar libro caja”.\nIngresar la sociedad o libro caja que deseado en la nueva ventana, y presionar el botón “continuar”. \nPara contabilizar, siempre ingresar en la fecha del día. \nPara verificar el histórico de operaciones seleccionar por: fecha, semana o periodo\n\nIngresar a la solapa correspondiente en base al movimiento que se desea registrar: ingresos efectivo o gastos efectivo (para la salida al banco).\nHacer un clic sobre el botón de match code (F4) de la columna “operación contable” para ingresar el tipo de operación..\n\nPantalla de operaciones contables. \nPara Ingresos de Efectivo: seleccionar Recaudación Efectivo. \nPara Salida al banco (gastos efectivo) seleccionar el banco según corresponda.\n\n>>>Ingresos de efectivo\nCampos a completar para la operación contable - Ingresos efectivo: \n• Recaudación efectivo \n• Importe. \n• Deudor \n\nDar Enter. Semáforo rojo \nPresione Grabar. Semáforo amarillo\n\n>>>Salida al banco\nCampos a completar para la operación contable – Salida al banco: \n• Salida E (Banco) \n• Importe. \nDar Enter. Semáforo rojo \nPresione Grabar. Semáforo amarillo\n",
+            "source": "FINSA_LINK_Capacitación_R2R12_PC_NUEVO.pdf",
+            "questions": [
+              "Ingresar a libro caja y seleccionar información para ejecutar"
+            ],
+            "metadata": [
+              
+            ],
+            "alternateQuestions": "[]",
+            "alternateQuestionClusters": [
+              
+            ],
+            "changeStatus": "Update",
+            "kbId": "b8dce123-f35d-412f-9620-a8cc1bdb8efc",
+            "context": {
+              "isContextOnly": false,
+              "prompts": [
+                
+              ]
+            },
+            "num": 864,
+            "questionsDelete": [
+              "Ingresos de efectivo"
+            ]
+        },
+        {
+            "id": 884,
+            "answer": "**Ejecutar Contabilización**\nPresione Contabilizar.\nSemáforo verde\n\nEl CeBe. se ingresará automáticamente.\n\nSe mostrará N° Documento contable",
+            "source": "FINSA_LINK_Capacitación_R2R12_PC_NUEVO.pdf",
+            "questions": [
+              "Ejecutar Contabilización - Libro caja (movimientos de caja)\n"
+            ],
+            "metadata": [
+              
+            ],
+            "alternateQuestions": "[]",
+            "alternateQuestionClusters": [
+              
+            ],
+            "changeStatus": "Update",
+            "kbId": "b8dce123-f35d-412f-9620-a8cc1bdb8efc",
+            "context": {
+              "isContextOnly": false,
+              "prompts": [
+                
+              ]
+            },
+            "num": 865,
+            "questionsDelete": [
+              "Salida al banco"
+            ]
+        },
+        {
+            "id": 885,
+            "answer": "**Imprimir recibo**\n\nImprimir Recibo desde la tx. ZZF_AR_PAGO_CLIENTE\nPara imprimir: cargar los datos y ejecutar.\n\nImprimir Recibo desde la tx. ZZF_AR_PAGO_CLIENTE\nSistema permite ver la vista de impresión para enviar a imprimir el recibo.",
+            "source": "FINSA_LINK_Capacitación_R2R12_PC_NUEVO.pdf",
+            "questions": [
+              "Imprimir recibo - Libro caja (movimientos de caja)"
+            ],
+            "metadata": [
+              
+            ],
+            "alternateQuestions": "[]",
+            "alternateQuestionClusters": [
+              
+            ],
+            "changeStatus": "Update",
+            "kbId": "b8dce123-f35d-412f-9620-a8cc1bdb8efc",
+            "context": {
+              "isContextOnly": false,
+              "prompts": [
+                
+              ]
+            },
+            "num": 866,
+            "questionsDelete": [
+              "Imprimir recibo - Libro caja (movimientos de caja)"
+            ]
+        },
+        {
             "id": 886,
             "answer": "**Imprimir Diario Caja (cierre de caja)**\n\nEl cierre de caja hace referencia a la visualización de los movimientos que ocurrieron en la fecha. \n\nPara ver el libro de diario, hay que ir a Detalles, y luego a la opción Imprimir diario.",
             "source": "FINSA_LINK_Capacitación_R2R12_PC_NUEVO.pdf",
             "questions": [
-                "Imprimir Diario Caja (cierre de caja)"
+              "Imprimir Diario Caja (cierre de caja)"
             ],
-            "metadata": [],
+            "metadata": [
+              
+            ],
             "alternateQuestions": "[]",
-            "alternateQuestionClusters": [],
+            "alternateQuestionClusters": [
+              
+            ],
             "changeStatus": "Update",
             "kbId": "b8dce123-f35d-412f-9620-a8cc1bdb8efc",
             "context": {
-                "isContextOnly": false,
-                "prompts": []
+              "isContextOnly": false,
+              "prompts": [
+                
+              ]
             },
             "num": 867,
             "questionsDelete": [
-                "Imprimir Diario Caja (cierre de caja)"
+              "Imprimir Diario Caja (cierre de caja)"
             ]
         },
         {
@@ -18897,20 +19395,26 @@
             "answer": "**En este tópico, hemos aprendido a:**\n\n▪ Seleccionar la información para la posterior contabilización.\n\n*   \n\nEjecutar una contabilización.\n\n*   \n\nImprimir un recibo.\n\n*   \n\nCerrar caja (imprimir diario).",
             "source": "FINSA_LINK_Capacitación_R2R12_PC_NUEVO.pdf",
             "questions": [
-                "En este tópico, hemos aprendido a:"
+              "En este tópico, hemos aprendido a:"
             ],
-            "metadata": [],
+            "metadata": [
+              
+            ],
             "alternateQuestions": "[]",
-            "alternateQuestionClusters": [],
+            "alternateQuestionClusters": [
+              
+            ],
             "changeStatus": "Update",
             "kbId": "b8dce123-f35d-412f-9620-a8cc1bdb8efc",
             "context": {
-                "isContextOnly": false,
-                "prompts": []
+              "isContextOnly": false,
+              "prompts": [
+                
+              ]
             },
             "num": 868,
             "questionsDelete": [
-                "En este tópico, hemos aprendido a:"
+              "En este tópico, hemos aprendido a:"
             ]
         },
         {
@@ -18918,20 +19422,26 @@
             "answer": "**Demostración**\n\nLa siguiente demostración incluirá:\n\n▪ Cómo ejecutarla contabilización del libro caja.\n\n*   \n\nCómo imprimirun recibo.\n\n*   \n\nCómo cerrarel libro caja.",
             "source": "FINSA_LINK_Capacitación_R2R12_PC_NUEVO.pdf",
             "questions": [
-                "Demostración - Demostración"
+              "Demostración - Demostración"
             ],
-            "metadata": [],
+            "metadata": [
+              
+            ],
             "alternateQuestions": "[]",
-            "alternateQuestionClusters": [],
+            "alternateQuestionClusters": [
+              
+            ],
             "changeStatus": "Update",
             "kbId": "b8dce123-f35d-412f-9620-a8cc1bdb8efc",
             "context": {
-                "isContextOnly": false,
-                "prompts": []
+              "isContextOnly": false,
+              "prompts": [
+                
+              ]
             },
             "num": 869,
             "questionsDelete": [
-                "Demostración - Demostración"
+              "Demostración - Demostración"
             ]
         },
         {
@@ -18939,20 +19449,26 @@
             "answer": "**Ejercicio Práctico**\n\nPara ejercitar, referirse al:\n\n▪ Ejercicio 1de la Guía de Ejercicios Prácticos.",
             "source": "FINSA_LINK_Capacitación_R2R12_PC_NUEVO.pdf",
             "questions": [
-                "Ejercicio Práctico - Demostración"
+              "Ejercicio Práctico - Demostración"
             ],
-            "metadata": [],
+            "metadata": [
+              
+            ],
             "alternateQuestions": "[]",
-            "alternateQuestionClusters": [],
+            "alternateQuestionClusters": [
+              
+            ],
             "changeStatus": "Update",
             "kbId": "b8dce123-f35d-412f-9620-a8cc1bdb8efc",
             "context": {
-                "isContextOnly": false,
-                "prompts": []
+              "isContextOnly": false,
+              "prompts": [
+                
+              ]
             },
             "num": 870,
             "questionsDelete": [
-                "Ejercicio Práctico - Demostración"
+              "Ejercicio Práctico - Demostración"
             ]
         },
         {
@@ -18960,20 +19476,26 @@
             "answer": "**Agenda del curso**\n\nINTRODUCCIÓN\n\nAL CURSO\n\nLIBRO DE CAJA (MOVIMIENTO DE CAJA)\n\n15 minutos\n\nINTRODUCCIÓN\n\nA LIBRO DE CAJA (MOVIMIENTO DE CAJA)\n\n30 minutos\n\n60 minutos\n\nCIERRE\n\nDEL CURSO\n\n15 minutos",
             "source": "FINSA_LINK_Capacitación_R2R12_PC_NUEVO.pdf",
             "questions": [
-                "Agenda del curso - Demostración - Libro caja (movimientos de caja)"
+              "Agenda del curso - Demostración - Libro caja (movimientos de caja)"
             ],
-            "metadata": [],
+            "metadata": [
+              
+            ],
             "alternateQuestions": "[]",
-            "alternateQuestionClusters": [],
+            "alternateQuestionClusters": [
+              
+            ],
             "changeStatus": "Update",
             "kbId": "b8dce123-f35d-412f-9620-a8cc1bdb8efc",
             "context": {
-                "isContextOnly": false,
-                "prompts": []
+              "isContextOnly": false,
+              "prompts": [
+                
+              ]
             },
             "num": 871,
             "questionsDelete": [
-                "Agenda del curso - Demostración - Libro caja (movimientos de caja)"
+              "Agenda del curso - Demostración - Libro caja (movimientos de caja)"
             ]
         },
         {
@@ -18981,20 +19503,26 @@
             "answer": "**En este curso hemos aprendido a:**\n\n*   \n\nSeleccionar la información para la posterior contabilización.\n\n*   \n\nEjecutar una contabilización.\n\n*   \n\nImprimir un recibo.\n\n*   \n\nCerrar caja (imprimir diario).",
             "source": "FINSA_LINK_Capacitación_R2R12_PC_NUEVO.pdf",
             "questions": [
-                "En este curso hemos aprendido a:"
+              "En este curso hemos aprendido a:"
             ],
-            "metadata": [],
+            "metadata": [
+              
+            ],
             "alternateQuestions": "[]",
-            "alternateQuestionClusters": [],
+            "alternateQuestionClusters": [
+              
+            ],
             "changeStatus": "Update",
             "kbId": "b8dce123-f35d-412f-9620-a8cc1bdb8efc",
             "context": {
-                "isContextOnly": false,
-                "prompts": []
+              "isContextOnly": false,
+              "prompts": [
+                
+              ]
             },
             "num": 872,
             "questionsDelete": [
-                "En este curso hemos aprendido a:"
+              "En este curso hemos aprendido a:"
             ]
         },
         {
@@ -19002,20 +19530,26 @@
             "answer": "**✓Revisar material de Soporte:**\n\nGuía SAP:\n\n‒FI_TR_S_0085 Libro de caja\n\nGuía de ejercicios: FINSA_LINK_Capacitacion_R2R12_GE\n\n✓Evaluación on-line",
             "source": "FINSA_LINK_Capacitación_R2R12_PC_NUEVO.pdf",
             "questions": [
-                "✓Revisar material de Soporte:"
+              "✓Revisar material de Soporte:"
             ],
-            "metadata": [],
+            "metadata": [
+              
+            ],
             "alternateQuestions": "[]",
-            "alternateQuestionClusters": [],
+            "alternateQuestionClusters": [
+              
+            ],
             "changeStatus": "Update",
             "kbId": "b8dce123-f35d-412f-9620-a8cc1bdb8efc",
             "context": {
-                "isContextOnly": false,
-                "prompts": []
+              "isContextOnly": false,
+              "prompts": [
+                
+              ]
             },
             "num": 873,
             "questionsDelete": [
-                "✓Revisar material de Soporte:"
+              "✓Revisar material de Soporte:"
             ]
         },
         {
@@ -19023,20 +19557,26 @@
             "answer": "**✓Completar la Encuesta de Satisfacción**\n\n¡Muchas gracias por asistir al curso de Libro caja(movimientos de caja)!",
             "source": "FINSA_LINK_Capacitación_R2R12_PC_NUEVO.pdf",
             "questions": [
-                "✓Completar la Encuesta de Satisfacción"
+              "✓Completar la Encuesta de Satisfacción"
             ],
-            "metadata": [],
+            "metadata": [
+              
+            ],
             "alternateQuestions": "[]",
-            "alternateQuestionClusters": [],
+            "alternateQuestionClusters": [
+              
+            ],
             "changeStatus": "Update",
             "kbId": "b8dce123-f35d-412f-9620-a8cc1bdb8efc",
             "context": {
-                "isContextOnly": false,
-                "prompts": []
+              "isContextOnly": false,
+              "prompts": [
+                
+              ]
             },
             "num": 874,
             "questionsDelete": [
-                "✓Completar la Encuesta de Satisfacción"
+              "✓Completar la Encuesta de Satisfacción"
             ]
         },
         {
@@ -19044,20 +19584,26 @@
             "answer": "**TÍTULO**\n\n#yomeentreno",
             "source": "FINSA_LINK_Capacitación_R2R12_PC_NUEVO.pdf",
             "questions": [
-                "TÍTULO - Los próximos pasos a seguir son los siguientes:"
+              "TÍTULO - Los próximos pasos a seguir son los siguientes:"
             ],
-            "metadata": [],
+            "metadata": [
+              
+            ],
             "alternateQuestions": "[]",
-            "alternateQuestionClusters": [],
+            "alternateQuestionClusters": [
+              
+            ],
             "changeStatus": "Update",
             "kbId": "b8dce123-f35d-412f-9620-a8cc1bdb8efc",
             "context": {
-                "isContextOnly": false,
-                "prompts": []
+              "isContextOnly": false,
+              "prompts": [
+                
+              ]
             },
             "num": 875,
             "questionsDelete": [
-                "TÍTULO - Los próximos pasos a seguir son los siguientes:"
+              "TÍTULO - Los próximos pasos a seguir son los siguientes:"
             ]
         }
     ]
