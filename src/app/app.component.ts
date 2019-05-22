@@ -3,7 +3,7 @@ import { modelGroupProvider } from '@angular/forms/src/directives/ng_model_group
 import { JsonPipe } from '@angular/common';
 
 // const json = require('../assets/plantilla.json');
-const json = require('../assets/FINSA_LINK_Capacitación_R2R12_PC_NUEVO.json');
+const json = require('../assets/EtapaUno.json');
 var jsonvar;
 @Component({
   selector: 'app-root',
